@@ -47,7 +47,7 @@ For information on contributing, please refer to the [Contributing Guide](CONTRI
 
 
 ## Contributors
-
-<!-- CONTRIBUTORS-LIST:START -->
-<!-- CONTRIBUTORS-LIST:END -->
+<a href="https://github.com/iskandarem"><img src="https://avatars.githubusercontent.com/iskandarem" width="100px;" alt=""/><br /><sub><b>iskandarem</b></sub></a>
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
