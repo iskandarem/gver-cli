@@ -49,5 +49,18 @@ For information on contributing, please refer to the [Contributing Guide](CONTRI
 ## Contributors
 <a href="https://github.com/iskandarem"><img src="https://avatars.githubusercontent.com/iskandarem" width="100px;" alt=""/><br /><sub><b>iskandarem</b></sub></a>
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/iskandarem">
+                    <img src="https://avatars.githubusercontent.com/u/104186981?v=4" width="100;" alt="iskandarem"/>
+                    <br />
+                    <sub><b>Iskandar Emomzoda</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
