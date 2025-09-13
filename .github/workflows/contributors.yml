@@ -1,0 +1,23 @@
+name: "Update Contributors List"
+
+on:
+  push:
+    branches: [main]  # or your default branch
+  schedule:
+    - cron: '0 0 * * 0'  # every Sunday
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update Contributors in README
+        uses: JamesIves/github-contributors-readme-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          readme-path: README.md
+          image-size: 100
+          columns: 6

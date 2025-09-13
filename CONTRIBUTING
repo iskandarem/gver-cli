@@ -1,0 +1,34 @@
+# Contributing Guide
+
+Thank you for your interest in contributing to this project!
+
+## How to Contribute
+
+1. **Fork the repository** and create your branch from `main`.
+2. **Write clear, concise code** and follow the existing code style.
+3. **Add tests** for new features or bug fixes.
+4. **Document your changes** in code comments and update documentation if needed.
+5. **Submit a pull request** with a clear description of your changes.
+
+## Code Style
+
+- Use consistent formatting (indentation, spacing, etc.).
+- Prefer modern C++ standards (C++17 or later).
+- Use descriptive variable and function names.
+
+## Commit Messages
+
+- Use clear, descriptive commit messages.
+- Reference related issues if applicable.
+
+## Reporting Issues
+
+- Use the issue tracker to report bugs or request features.
+- Provide steps to reproduce bugs and relevant logs or screenshots.
+
+## Code of Conduct
+
+- Be respectful and inclusive.
+- Review and discuss changes constructively.
+
+Thank you for helping improve this project!
